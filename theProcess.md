@@ -12,3 +12,8 @@ after handeling the folder str and all the first thing i have to do to make this
 
 
 
+### Rules of lang 
+
+- We dont dont care abt the whitespaces (yess it wont be like python, more like cpp)
+- Every line ends with a semicolon 
+- Cant start an identifier with numbers
